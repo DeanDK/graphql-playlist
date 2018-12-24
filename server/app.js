@@ -20,4 +20,4 @@ app.use(
   })
 );
 
-app.listen(4000, () => console.log("Running"));
+app.listen(4000, () => console.log("server open"));
